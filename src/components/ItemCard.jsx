@@ -1,6 +1,6 @@
 import { useNavigate } from 'react-router-dom'
 import { useState } from 'react'
-import { CATEGORY_CONFIG } from '../config/categories'
+import { CATEGORY_CONFIG } from '../config/Catagories'
 
 function slugify(name) {
   return name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '')

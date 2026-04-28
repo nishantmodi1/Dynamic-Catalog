@@ -1,4 +1,4 @@
-import { CATEGORY_CONFIG } from '../config/categories'
+import { CATEGORY_CONFIG } from '../config/Catagories'
 
 export default function Hero({ totalItems }) {
   const categories = Object.entries(CATEGORY_CONFIG)

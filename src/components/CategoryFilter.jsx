@@ -1,4 +1,4 @@
-import { CATEGORY_CONFIG, CATEGORIES } from '../config/categories'
+import { CATEGORY_CONFIG, CATEGORIES } from '../config/Catagories'
 
 export default function CategoryFilter({ active, onChange, counts }) {
   return (

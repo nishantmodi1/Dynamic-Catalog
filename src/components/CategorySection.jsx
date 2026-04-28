@@ -1,5 +1,5 @@
 import ItemCard from './ItemCard'
-import { CATEGORY_CONFIG } from '../config/categories'
+import { CATEGORY_CONFIG } from '../config/Catagories'
 
 export default function CategorySection({ category, items }) {
   const config = CATEGORY_CONFIG[category] || {}

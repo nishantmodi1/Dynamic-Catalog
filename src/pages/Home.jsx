@@ -1,6 +1,6 @@
 import { useState, useMemo } from 'react'
 import catalog from '../config/catalog.json'
-import { CATEGORY_CONFIG } from '../config/categories'
+import { CATEGORY_CONFIG } from '../config/Catagories'
 import Hero from '../components/Hero'
 import CategoryFilter from '../components/CategoryFilter'
 import CategorySection from '../components/CategorySection'
